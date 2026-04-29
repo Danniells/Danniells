@@ -10,15 +10,6 @@ When I'm not coding or analyzing data, you might find me editing videos with Cap
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Danniells&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Daniel's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Danniells&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Daniel's Top Languages" height="180" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-bisaggio/)
